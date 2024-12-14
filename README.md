@@ -1,2 +1,2 @@
-# Power-Bi-Projecyt
+# Power-Bi-Project
 Business Overview with Microsoft Power Bi
